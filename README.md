@@ -33,5 +33,6 @@
 <h1 align="center">memory
 
 ⚠WARNING: Use this script for educational purposes only or to test your server!
+
 **💰 Donate:**
 * qiwi.com/n/ANKOR1973
