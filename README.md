@@ -1,6 +1,6 @@
 # mcbot
 <p align="center"><img src="./icon/mcbot.ico" width="150px" height="150px" alt="mcbot"></p>
-<h1 align="center">mcbot - DDOS attack minecraft servers with 24 Method</h1>
+<h1 align="center">DDoS attack minecraft servers with 24 Method</h1>
 
 
 ## Methods
