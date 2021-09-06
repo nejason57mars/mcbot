@@ -5,8 +5,7 @@
 
 ## Methods
 
-   <h1 align="center"> 💣 Methods:</h1>
- ```
+```<h1 align="center"> 💣 Methods:</h1>
 <h1 align="center">bigpacket
 <h1 align="center">bigpacket
 <h1 align="center">botjoiner
