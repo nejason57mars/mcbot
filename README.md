@@ -1,5 +1,5 @@
 # mcbot
-<p align="center"><img src="./icon/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="./icon/mcbot.ico" width="150px" height="150px" alt="mcbot"></p>
 <h1 align="center">mcbot - DDOS attack minecraft servers with 24 Method</h1>
 
 
