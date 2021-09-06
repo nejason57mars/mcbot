@@ -32,7 +32,7 @@
 <h1 align="center">unexpectedpacket
 <h1 align="center">memory
 
-⚠WARNING: Use this script for educational purposes only or to test your server!
+**⚠WARNING: Use this script for educational purposes only or to test your server!**
 
 
 **💰 Donate:**
