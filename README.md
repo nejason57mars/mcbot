@@ -4,9 +4,32 @@
 
 
 ## Methods
-
-<h1 align="center"> 💣 Methods:</h1>
-```test
+```💣 Methods:
+bigpacket
+botjoiner
+doublejoin
+emptypacket
+gayspam
+handshake
+invaliddata
+invalidspoof
+invalidnames
+spoof
+join
+legacyping
+legitnamejoin
+localhost
+pingjoin
+longhost
+longnames
+nullping
+ping
+query
+randompacket
+bighandshake
+unexpectedpacket
+memory
+test
 bigpacket
 botjoiner
 doublejoin
