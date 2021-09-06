@@ -6,6 +6,7 @@
 ## Methods
 
    <h1 align="center"> 💣 Methods:</h1>
+ ```
 <h1 align="center">bigpacket
 <h1 align="center">bigpacket
 <h1 align="center">botjoiner
@@ -31,6 +32,7 @@
 <h1 align="center">bighandshake
 <h1 align="center">unexpectedpacket
 <h1 align="center">memory
+```
 
 **⚠WARNING: Use this script for educational purposes only or to test your server!**
 
