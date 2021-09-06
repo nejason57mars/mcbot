@@ -34,5 +34,6 @@
 
 ⚠WARNING: Use this script for educational purposes only or to test your server!
 
+
 **💰 Donate:**
-* qiwi.com/n/ANKOR1973
+qiwi.com/n/ANKOR1973
