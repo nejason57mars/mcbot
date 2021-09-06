@@ -1,6 +1,6 @@
 # mcbot
 
-<h1 align="center">mcbot - DDOS attack script With 24 Method</h1>
+<h1 align="center">mcbot - DDOS attack minecraft servers with 24 Method</h1>
 
 
 ## Methods
