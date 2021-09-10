@@ -1,7 +1,7 @@
 # mcbot
 <p align="center"><img src="./icon/test.ico" width="150px" height="150px" alt="mcbot"></p>
 <h1 align="center">DDoS attack minecraft servers with 24 Method</h1>
-
+<h1 align="center">**⚠WARNING: to kill botfilter you need a very powerful Dedicated Server or VDS**</h1>
 
 ## Methods
 ```💣 Methods:
