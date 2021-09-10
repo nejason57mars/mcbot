@@ -5,7 +5,7 @@
 
 ## Methods
 ```💣 Methods:
-bigpacket
+* bigpacket
 botjoiner
 doublejoin
 emptypacket
@@ -60,4 +60,4 @@ memory
 
 
 ## **💰 Donate:**
-qiwi.com/n/ANKOR1973
+* qiwi.com/n/ANKOR1973
