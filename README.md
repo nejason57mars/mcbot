@@ -56,7 +56,7 @@ unexpectedpacket
 memory
 ```
 ## WARNING
-** Use this script for educational purposes only or to test your server!**
+* Use this script for educational purposes only or to test your server!
 
 
 ## **💰 Donate:**
